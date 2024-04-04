@@ -39,7 +39,7 @@ accJayanta.displayAccountInfo();
 accJayanta.deposit(2000);
 accJayanta.withdraw(1000);
 
-console.log("===========================");
+console.log("<===========================>");
 
 accAjay.displayAccountInfo();
 accAjay.deposit(500);
